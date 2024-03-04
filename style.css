@@ -1,0 +1,27 @@
+.container{
+    text-align: center;
+    margin: 23px;
+    background-color: rgb(27, 200, 226);
+    padding: 25px;
+    display: inline-block;
+    border: 5px solid black;
+    border-radius: 20px;
+
+}
+h1
+{
+    background-color: pink;
+    border-radius: 20px;
+}
+
+input{
+    border: 5px solid  rgb(27, 200, 226);
+    font-size: 35px;
+}
+button{
+    font-size: 23px;
+    background-color: pink;
+    width: 105px;
+    height: 58px;
+    border-radius: 20px;
+}
